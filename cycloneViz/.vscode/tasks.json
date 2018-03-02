@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "command": "python",
+    "showOutput": "always",
+    "args": ["cycloneViz.py"],
+    // "problemMatcher": {
+    //     "fileLocation": ["relative", "${workspaceRoot}"],
+    //     "pattern": {
+    //         "regexp": "^(.*)+s$",
+    //         "message": 1
+    //     }
+    // }
+}
